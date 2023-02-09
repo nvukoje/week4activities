@@ -1,1 +1,1 @@
-# week4activities github page
+# week4activities github repository
